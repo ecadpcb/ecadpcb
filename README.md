@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ecadpcb
+- 👀 I’m interested in ...
+Electronics,Software, IA
+- 🌱 I’m currently learning ...
+Programing
+- 💞️ I’m looking to collaborate on ...
+Design Electronics and PCB Layout
+- 📫 How to reach me ...
+
+<!---
+ecadpcb/ecadpcb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
